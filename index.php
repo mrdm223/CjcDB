@@ -1,4 +1,3 @@
 <php
-    
-
+    otin bilat
 php>
